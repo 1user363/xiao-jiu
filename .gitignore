@@ -1,0 +1,16 @@
+# 密钥（绝对不能提交）
+.env
+
+# 向量数据库（运行时可重新生成）
+chroma_db/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+venv/
+.venv/
+
+# Claude Code 本地配置
+.claude/
